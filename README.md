@@ -1,7 +1,7 @@
 # Denver-Kulecho
 # 👨‍💻 Hi, I'm Denver | Cybersecurity Enthusiast
 
-🔒 **| Defender*| 🧨  | Attacker**
+🔒 **| Defender*| 🧨  | Attacker*
 
 I'm a cybersecurity Enthusiast passionate about securing systems and testing their limits. I specialize in incident response, threat hunting, and penetration testing. Welcome to my GitHub
 
@@ -13,7 +13,7 @@ I'm a cybersecurity Enthusiast passionate about securing systems and testing the
 
 
 ## 🏆 Achievements
-- 🐛 Found 10+ bugs in bug bounty programs
+- 🐛 2023 Huawei, KCSFA & CAK Hackathon National Finalist
 - 🏅 Ranked top 40 in [Dewald Roode CTF Hackathon 2025 ]
 
 
